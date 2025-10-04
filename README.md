@@ -1,6 +1,7 @@
 # Prerequisites
 ########
-- JDK 21 
+- JDK 17
+- Python 2
 - Maven 3.9 
 - MySQL 8
 
